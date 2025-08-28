@@ -12,7 +12,7 @@ Each project is in a separate folder and contains:
 
 ## 🚀 List of projects
 - [8ball](./8ball) — console version of Magic 8-ball with predictions.
-- [factorial-calculator](./factorial-calculator) — factorial calculator.
+- [factorial_calculator](./factorial_calculator) — factorial calculator.
 - [package_delivery_cal](./package_delivery_cal) — calculation of delivery cost depending on weight and type.
 - (new projects will be added)
 
