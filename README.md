@@ -9,3 +9,20 @@ Each project is in a separate folder and contains:
 - source code (`.py` files),
 - separate `README.md` with a description,
 - (if possible) tests.
+
+## 🚀 List of projects
+- [8ball](./8ball) — console version of Magic 8-ball with predictions.
+- [factorial-calculator](./factorial-calculator) — factorial calculator.
+- [delivery-price-calculator](./delivery-price-calculator) — calculation of delivery cost depending on weight and type.
+- (new projects will be added)
+
+## 🧪 What I'm practicing
+- Python basics (variables, loops, conditions),
+- functions and modules,
+- simple algorithms,
+- working with input/output,
+- unit testing (pytest),
+- project design on GitHub.
+
+## 📌 Note
+This is a learning repository: many of the projects are simple, but they are designed in a way that allows you to follow my progress and approach to the code.
